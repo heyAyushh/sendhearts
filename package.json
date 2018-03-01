@@ -1,0 +1,15 @@
+{
+  "name": "loveuinsta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "instagram-private-api": "^0.6.7"
+  }
+}
